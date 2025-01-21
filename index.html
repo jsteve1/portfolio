@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jacob Stevens - Software Engineer</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-name">Jacob Stevens</div>
+        <div class="nav-links">
+            <a href="https://github.com/jsteve1" target="_blank" title="GitHub">
+                <i class="fab fa-github"></i>
+            </a>
+        </div>
+    </nav>
+
+    <div class="mars-background"></div>
+    <div class="nebula-overlay"></div>
+
+    <main class="hero-container">
+        <header class="hero">
+            <h1>
+                Ready to <span class="emphasis">LAUNCH</span> 
+                <span class="rocket-emoji">🚀</span>
+                <br>Your Next Product?
+            </h1>
+            <p>Software Engineer | Problem Solver | Innovation Driver</p>
+        </header>
+
+        <div class="cta-buttons">
+            <button class="cta-button" id="contact-btn">
+                <i class="fas fa-paper-plane"></i>
+                Launch Now
+            </button>
+            <a href="projects.html" class="cta-button">
+                <i class="fas fa-code"></i>
+                My Projects
+            </a>
+            <a href="resume.pdf" target="_blank" class="cta-button">
+                <i class="fas fa-file-alt"></i>
+                My Resume
+            </a>
+        </div>
+
+        <!-- Contact Form Modal -->
+        <div id="contact-modal" class="modal">
+            <div class="modal-content">
+                <span class="close-modal">&times;</span>
+                <h2>Let's Launch Together! 🚀</h2>
+                <form id="contact-form">
+                    <input type="text" id="message" name="message" placeholder="Your message here..." required>
+                    <button type="submit" class="cta-button">Send Message</button>
+                </form>
+            </div>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html> 
