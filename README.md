@@ -4,6 +4,11 @@ A modern, space-themed portfolio showcasing my software engineering projects. Vi
 
 ## Featured Projects
 
+### NoteLocker
+A secure, end-to-end encrypted note-taking application with a modern UI and real-time updates.
+- **Technologies**: React, TypeScript, Node.js, MongoDB
+- **Live**: [lockedin.bidseek.dev](https://lockedin.bidseek.dev)
+
 ### Spokane Exercise
 A custom Shopify store for fitness equipment, featuring a modern e-commerce experience.
 - **Technologies**: Shopify, JavaScript, HTML5, CSS3
@@ -18,11 +23,6 @@ Chrome Extension for image manipulation, available on the Chrome Web Store.
 A sophisticated chess game implementation with real-time multiplayer support.
 - **Technologies**: Svelte, TypeScript, Node.js, Redis, Docker
 - **Status**: In Development
-
-### Sorting Visualizer
-Interactive visualization of various sorting algorithms.
-- **Technologies**: Svelte, TypeScript
-- **Live**: [Sorting Visualizer](https://jsteve1.github.io/sorts/)
 
 ### Blackjack Game
 Web-based implementation of the classic card game.
