@@ -22,7 +22,7 @@ Chrome Extension for image manipulation, available on the Chrome Web Store.
 ### Chess Application
 A sophisticated chess game implementation with real-time multiplayer support.
 - **Technologies**: Svelte, TypeScript, Node.js, Redis, Docker
-- **Status**: In Development
+- **Live**: [Play Chess](https://chess.bidseek.dev)
 
 ### Blackjack Game
 Web-based implementation of the classic card game.
